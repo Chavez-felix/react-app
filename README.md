@@ -1,0 +1,2 @@
+# react-app
+static-model
